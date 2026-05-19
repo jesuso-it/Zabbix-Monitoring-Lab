@@ -9,6 +9,8 @@ Crear una vista centralizada para revisar rápidamente el estado de los hosts mo
 Nombre:
 Lab Monitoring Dashboard
 
+![dashboard-completo](../screenshots/07-dashboard-completo.png)
+
 ## Prueba de alerta
 
 Se realizó una prueba controlada apagando uno de los hosts monitorizados.
@@ -16,6 +18,8 @@ Se realizó una prueba controlada apagando uno de los hosts monitorizados.
 ## Resultado
 
 Zabbix detectó la pérdida de disponibilidad y generó un problema asociado al host.
+
+![alerta-tras-apagado-controlado](../screenshots/08-alerta-tras-apagado-controlado.png)
 
 ## Beneficio operativo
 
