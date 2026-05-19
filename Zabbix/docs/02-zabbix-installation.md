@@ -19,3 +19,10 @@ Instalar Zabbix Server en Ubuntu Server para centralizar la monitorización del 
 systemctl status zabbix-server
 systemctl status apache2
 systemctl status mysql
+```
+
+![Página de login de Zabbix](Zabbix/Screenshots/Página de login de Zabbix.png)
+![Dashboard inicial](Zabbix/Screenshots/Dashboard inicial.png)
+![Dashboard inicial](Zabbix/Screenshots/Dashboard inicial.png)
+
+
