@@ -32,7 +32,9 @@ El laboratorio está inspirado en situaciones reales de operación IT, pero ha s
 
 Desde Zabbix Server se validó conectividad hacia los hosts:
 
+```bash
 ping 192.168.10.20
 ping 192.168.10.30
+```
 
 ![Ping desde Zabbix Server hacia los hosts + lista VMs](../screenshots/Ping%20desde%20Zabbix%20Server%20hacia%20los%20hosts%20%2B%20lista%20VMs.png)
