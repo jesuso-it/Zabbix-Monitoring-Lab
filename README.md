@@ -31,7 +31,7 @@ Este laboratorio simula un entorno donde un equipo IT necesita monitorizar la di
 
 ## Topología
 
-![Topología del laboratorio](diagrams/topology.png)
+![Topología del laboratorio](Zabbix/diagrams/topology.png)
 
 ## Estructura del repositorio
 
