@@ -21,8 +21,9 @@ systemctl status apache2
 systemctl status mysql
 ```
 
-![Página de login de Zabbix](Zabbix/Screenshots/Página de login de Zabbix.png)
-![Dashboard inicial](Zabbix/Screenshots/Dashboard inicial.png)
-![Dashboard inicial](Zabbix/Screenshots/Dashboard inicial.png)
+![Página de login de Zabbix](../screenshots/01-zabbix-login.png)
 
+![Dashboard inicial](../screenshots/02-dashboard-inicial.png)
+
+![Estado del servicio Zabbix](../screenshots/03-estado-servicio-zabbix.png)
 
