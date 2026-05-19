@@ -18,6 +18,10 @@ Este laboratorio simula un entorno donde un equipo IT necesita monitorizar la di
 - Generar y validar una alerta controlada.
 - Documentar el procedimiento y resultados.
 
+  ## Alcance del laboratorio
+
+Este laboratorio cubre una implementación inicial de Zabbix orientada a disponibilidad, métricas básicas y visualización operativa. No pretende ser una arquitectura productiva completa, sino una práctica documentada para reforzar conocimientos de monitorización en infraestructura IT.
+
 ## Tecnologías utilizadas
 
 - Zabbix
@@ -33,9 +37,18 @@ Este laboratorio simula un entorno donde un equipo IT necesita monitorizar la di
 
 ![Topología del laboratorio](Zabbix/diagrams/topology.png)
 
+## Documentación
+
+- [Entorno del laboratorio](Zabbix/docs/01-environment.md)
+- [Instalación de Zabbix Server](Zabbix/docs/02-zabbix-installation.md)
+- [Configuración de hosts](Zabbix/docs/03-hosts-configuration.md)
+- [Dashboard y alertas](Zabbix/docs/04-dashboard-and-alerts.md)
+- [Lecciones aprendidas](Zabbix/docs/05-lessons-learned.md)
+
 ## Estructura del repositorio
 
-docs/
-screenshots/
-diagrams/
-scripts/
+```text
+Zabbix/
+├── diagrams/
+├── docs/
+└── screenshots/
