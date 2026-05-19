@@ -35,4 +35,4 @@ Desde Zabbix Server se validó conectividad hacia los hosts:
 ping 192.168.10.20
 ping 192.168.10.30
 
-![Ping desde Zabbix Server hacia los hosts + lista VMs](Zabbix/screenshots/Ping desde Zabbix Server hacia los hosts + lista VMs.png)
+![Ping desde Zabbix Server hacia los hosts + lista VMs](../screenshots/Ping%20desde%20Zabbix%20Server%20hacia%20los%20hosts%20%2B%20lista%20VMs.png)
